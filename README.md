@@ -7,3 +7,6 @@ Projeto de uma página web simples para fazer formatações de texto. A página 
 * Primeira letra de cada palavra em maiúscula.
 
 O projeto foi feito utilizando servlet java, JSP (JavaServer Pages), HTML e CSS.
+
+#### :link:Link: https://formatar-texto.herokuapp.com/
+
