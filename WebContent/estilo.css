@@ -1,0 +1,22 @@
+html, body{
+	margin: 0;
+	height: 100%;
+}
+
+.wrapper{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    height: 100vh;
+}
+
+.texto{
+	height: 200px;
+	width: 100%;
+}
+
+.buttons{
+	margin-top: 15px;	
+}
+
+
